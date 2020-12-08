@@ -12,11 +12,15 @@ For the Phase 4 Final Project I chose to model Time Series Data from [Zillow Res
 
 # Project Senario 
 
-InvesTex is a real estate investment firm looking to make value buys in the Dallas/ Fort Worth Metroplex. Looking to buy low sell high the client is targeting a  18-36 month turn around on investment. They have asked for the 5 best zipcode to invest in. Using domain knowledge in conjunction with the data 'best' will be defined using the following metrics: 
+InvesTex is a real estate investment firm looking to make value buys in the Dallas/ Fort Worth Metroplex. Looking to buy low sell high the client is targeting a  18-36 month turn around on investment. They have asked for the 5 best zipcode to invest in. Using domain knowledge in conjunction with the data 'best' will be defined using the following metrics:  
+
 1. Zipcodes location within or near a high preforming school disctrict 
 2. Zipcodes relative price compared to other zipcode in the school disctrict 
 3. Zipcodes that preform with highest yields for forcasted home prices. 
-4. Other factors such as average lot size and permit favoribility may also be considered 
+4. Other factors such as average lot size and permit favoribility may also be considered  
+
+There are 207 zipcodes in the Dallas/ Fort Worth Metroplex, to filter the data further I applied the first metric of best- grouping zipcode by school district and then looking at the school district [grade](https://www.niche.com/k12/search/best-school-districts/m/dallas-fort-worth-metro-area/) of each district.
+
 
 # ARIMA Modeling  
 
