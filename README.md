@@ -59,4 +59,3 @@ With greater time and scope I would pursue the following additions to the projec
 * Unsplash 
 
 # [Blog Post](LINK HERE)   
-# [Slide Recording](LINK HERE)
