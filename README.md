@@ -58,4 +58,5 @@ With greater time and scope I would pursue the following additions to the projec
 * Zillow 
 * Unsplash 
 
-# [Blog Post](https://kristendavis27.medium.com/stationarity-check-16701ddbe963)   
+# [Blog Post](https://kristendavis27.medium.com/stationarity-check-16701ddbe963)    
+# [Executive Summary](https://docs.google.com/presentation/d/138AyPTbIbCXHykpWUnBVU1TmxnDSZWSHfv4QhCyUleQ/edit#slide=id.ga5da48c167_0_193)
